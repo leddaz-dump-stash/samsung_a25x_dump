@@ -1,0 +1,8 @@
+{
+  "baseTune": "m34x",
+  "version": "1",
+  "set_bv_min": -5.5,
+  "set_bv_max": -4.5,
+  "set_bv_th": -4.5,
+  "set_face_count": 1
+}
