@@ -1,0 +1,14 @@
+# a25xxx-user 14 UP1A.231005.007 A256BXXU4BXE3 release-keys
+- manufacturer: samsung
+- platform: universal8825
+- codename: a25x
+- flavor: a25xxx-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: A256BXXU4BXE3
+- tags: release-keys
+- fingerprint: samsung/a25xxx/a25x:12/SP1A.210812.016/A256BXXU4BXE3:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a25xxx-user-14-UP1A.231005.007-A256BXXU4BXE3-release-keys
+- repo: samsung_a25x_dump
